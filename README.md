@@ -87,11 +87,12 @@ RegisterNumber: 25009198
 
 
 **FULL ADDER**
-![Dp-4_page-0001](https://github.com/user-attachments/assets/1dcbd4bc-47ac-4a9a-85a1-75f511d4001f)
+![EDM-2 Cover_page-0001](https://github.com/user-attachments/assets/17f4243f-e05d-401f-933d-5a3349dcc428)
 
 
 **FULL SUBTRACTOR**
-![Dp-6_page-0001](https://github.com/user-attachments/assets/0acf14a5-38b9-49e7-92c4-94be7732b31e)
+![x6_page-0001](https://github.com/user-attachments/assets/a7511f6f-b1f7-4cd2-a2ca-7f922dc19a90)
+
 
 **Result:**
 
