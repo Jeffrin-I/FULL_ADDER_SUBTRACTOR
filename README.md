@@ -45,7 +45,8 @@ Write the detailed procedure here
 **Program:**
 
 **FULL ADDER**
-```module full_adder (
+```
+module full_adder (
     input  wire a, b, cin,   // Inputs
     output wire sum, carry   // Outputs
 );
